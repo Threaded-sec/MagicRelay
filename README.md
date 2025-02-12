@@ -22,7 +22,7 @@ cd MagicRelay
 
 🛠 Compile the program using Nim:
 ***********************************************************
-nim c -r magicrelay.nim # compile linux binaries
+nim c magicrelay.nim # compile linux binaries
 
 nim c -d:mingw magicrelay.nim #compile windows binaries
 

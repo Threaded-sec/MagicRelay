@@ -22,15 +22,15 @@ cd MagicRelay
 
 🛠 Compile the program using Nim:
 ***********************************************************
-nim c magicrelay.nim # compile linux binaries
+nim c Magicrelay.nim # compile linux binaries
 
-nim c -d:mingw magicrelay.nim #compile windows binaries
+nim c -d:mingw Magicrelay.nim #compile windows binaries
 
 🛠 Run the program:
 ************************************************************************
-#linux$: ./MagicRelay
+#linux$: ./Magicrelay
 
-#cmd$: MagiRelay.exe
+#cmd$: Magicrelay.exe
 
 
 Enter the required details when prompted:

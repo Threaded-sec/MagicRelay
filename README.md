@@ -67,6 +67,7 @@ The program outputs all responses from the SMTP server for analysis.
 📖 **Example Output**
 **************************************************************************************
 
+
 Magic Relay!!!
 
 Enter IP of Target SMTP Server: mail.example.com
